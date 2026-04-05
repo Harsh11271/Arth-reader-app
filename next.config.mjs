@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   serverExternalPackages: ["canvas"],
+  turbopack: {},
   eslint: {
     ignoreDuringBuilds: true,
   },
