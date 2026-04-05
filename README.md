@@ -1,5 +1,7 @@
 # Arth: The Premium Digital Sanctuary
 
+**[🌐 Live Application: arth-reader-app.vercel.app](https://arth-reader-app.vercel.app/)**
+
 Arth is a modern, full-stack Next.js web application designed to bridge the gap between elegant physical reading and advanced digital tooling. It takes raw document formats (EPUB, PDF, DOCX) and renders them in high-fidelity formats featuring custom typography and dynamic borders, actively assisted by our proprietary AI context companion, **Lexora**.
 
 ## Platform Highlights
