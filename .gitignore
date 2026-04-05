@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# User-specific ignores (preventing docs and temp files from pushing)
+docs/
+empty.js
+AGENTS.md
+CLAUDE.md
