@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  serverExternalPackages: ["canvas"],
+  serverExternalPackages: ["canvas", "pdfjs-dist"],
   turbopack: {},
   eslint: {
     ignoreDuringBuilds: true,
