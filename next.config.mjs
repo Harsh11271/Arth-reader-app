@@ -1,10 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  turbopack: {
-    resolveAlias: {
-      canvas: "./empty.js",
-    },
-  },
+  serverExternalPackages: ["canvas"],
   webpack: (config) => {
     config.resolve.alias.canvas = false;
     return config;
